@@ -5,7 +5,7 @@ function setup() {
 }
 
 function draw() {
-  frameRate(2);
+  frameRate(100);
   background(90);
   drawFloor();
   player.drawBody();
